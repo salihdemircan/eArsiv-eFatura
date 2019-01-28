@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?><eArsivRaporu xmlns="http://earsiv.efatura.gov.tr">
+  <baslik>
+    <versiyon>1.0</versiyon>
+    <mukellef>
+      <vkn>7210452742</vkn>
+    </mukellef>
+    <hazirlayan>
+      <vkn>7210452742</vkn>
+    </hazirlayan>
+    <raporNo>337410ab-9c34-4098-a0bd-df578e37d027</raporNo>
+    <donemBaslangicTarihi>2018-10-01</donemBaslangicTarihi>
+    <donemBitisTarihi>2018-10-31</donemBitisTarihi>
+    <bolumBaslangicTarihi>2018-10-01</bolumBaslangicTarihi>
+    <bolumBitisTarihi>2018-10-31</bolumBitisTarihi>
+    <bolumNo>1</bolumNo>
+  <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="DSIG72e6eee8-338e-4e87-a5ec-17735f29f23b">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference Id="Reference-Id-88492d40-e0d2-41fe-9ac0-a3c05c682189" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signed-Properties-Id-a75f9785-2f94-4617-91f4-8f544c0573c7">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>xxBMhOJmHuRR3xeue05LtqTDRBi6OrW67e92cQkDbA4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-Id-534d0aea-dbba-4048-b0ec-60e5d29076cd" URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>Q+CCVCA9dOOyR3cOq/ABJIaJqqQORYgaHSMuDrsnNNE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="Signature-Value-Id-207097bf-8003-45fc-bf4d-56f03d3aef48">ankpqCNT5hBROvuDsMvBD8uFAG1DoOatvGvQbH3Nhp+ibxNo4k5jXygWriKZVOWqjF/kdNUi23h9
+cfdsRRfmW1JZipc0pP6q3xChtdQZQoDMPpRtJGDyU0t1PcDKhV+WwkalspBFkwMP7WGJFQfk/0yF
+GZRfaKKbNOzdCow019uPpQT4uQHQBTV7znMovBu1ziREz4c6v6VJuel+ejneDv5qEyRgjGGwMHq4
+SiTUr4umo9nzE3QATM45hpsmGDOmFExacQ0HjeWqpgYOHv/tqQZR/oUmeDElUlbZ7GJR70OER4oT
+zs626xufNUFBUTvV4JT+L+e96905kK+Q7WKprw==</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>MIIFxjCCBK6gAwIBAgIIAK7LUEUDtJQwDQYJKoZIhvcNAQELBQAwXDELMAkGA1UEBhMCVFIxTTBL
+BgNVBAMMRE1hbGkgTcO8aMO8ciBFbGVrdHJvbmlrIFNlcnRpZmlrYSBIaXptZXQgU2HEn2xhecSx
+Y8Sxc8SxIC0gU8O8csO8bSAyMB4XDTE3MDkwODA2MDUyOFoXDTIwMDkwNzA2MDUyOFowbTETMBEG
+A1UEBRMKNzIxMDQ1Mjc0MjFWMFQGA1UEAwxNUEFSSyBFTlRFR1JBU1lPTiBFIETDlk7DnMWew5xN
+IFZFIELEsEzEsMWexLBNIEjEsFpNRVRMRVLEsCBBTk9OxLBNIMWexLBSS0VUxLAwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCn8nTH/W4PXqIM6iyy4XJdaJFz0so1pv6ULdfBfBcRUBSm
+j/aMFxmdSESahMs50hWNDoWLwMGN+eNHNFCAcQtxYgdXRIZ+Oum/NM3TFL9WOtbFUFV4P1Ent1Io
+qLT6yIfPwP7cfnI8A6WVCZTs/6K6JMBNqH/RFPUV4XTHtNCkL/uWdRYs3oBMUR+QBorqUAa0EdA5
+eJFZgkerc711dp++6WSk04ju5IK05zCNo/d2yxbmthWsQ6TabLEgXjHs32W8amk6pGKzt9128hmP
+NFXOd7nWaMO/7P3+monyaEOivySjHzRRQN7+tRtzyJLFJRpGbfPOu5iPRjhiNAiwRpuLAgMBAAGj
+ggJ5MIICdTAfBgNVHSMEGDAWgBQDhPqXMef0hxkvZSvhtBtjp691vjAdBgNVHQ4EFgQUGTNRm83i
+jeke2CNkRbN/dDIqcGMwDgYDVR0PAQH/BAQDAgeAMIIBMwYDVR0gBIIBKjCCASYwggEiBgtghhgB
+AgEBBQcEATCCAREwKgYIKwYBBQUHAgEWHmh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvaWxrZTCB
+4gYIKwYBBQUHAgIwgdUegdIAQgB1ACAAcwBlAHIAdABpAGYAaQBrAGEAIABpAGwAZQAgAGkAbABn
+AGkAbABpACAAcwBlAHIAdABpAGYAaQBrAGEAIAB1AHkAZwB1AGwAYQBtAGEAIABlAHMAYQBzAGwA
+YQByATEAbgExACAAbwBrAHUAbQBhAGsAIABpAOcAaQBuACAAYgBlAGwAaQByAHQAaQBsAGUAbgAg
+AHcAZQBiACAAcwBpAHQAZQBzAGkAbgBpACAAegBpAHkAYQByAGUAdAAgAGUAZABpAG4AaQB6AC4w
+DAYDVR0TAQH/BAIwADAWBgNVHSUEDzANBgtghhgBAgEBBQcyATBBBgNVHR8EOjA4MDagNKAyhjBo
+dHRwOi8vZGVwby5rYW11c20uZ292LnRyL2t1cnVtc2FsL21tZXNocy1zMi5jcmwwgYIGCCsGAQUF
+BwEBBHYwdDA8BggrBgEFBQcwAoYwaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9rdXJ1bXNhbC9t
+bWVzaHMtczIuY3J0MDQGCCsGAQUFBzABhihodHRwOi8vY2lzZHVwbW1zMi5rdXJ1bXNhbC5rYW11
+c20uZ292LnRyMA0GCSqGSIb3DQEBCwUAA4IBAQAPhhlmh0fJycYgvemu5aTSbevQQidTNRvC/1Ov
+km9auajYdQUdI+RyfVvQBqK4CNl+PQL4NTqDUZ+YiiGzuZn4dTBtbrHtQVGnX5PgV5NZDyzAZxWo
+lcmjqFugpni0F9LXv14Pqmlfm7tJHIc8WT/HRc3+meG8MRdt9Uhe7BlryV8kfAtjjA9zx9XnzVkg
+KKTXmERK1Lx5XicqFcoeqoAgpNHt2rTwm3mXo5Ldxz7PcSrQAKzxNj6rmWWzrg40YVgO5iNDRwER
+axW/uY098nwRejYc+NcYVbVWYs+tbAS3uJykT4YK3Hgv1KKAdeLCvMZRBlZs52GyuKQAbveXLdIJ
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>AKfydMf9bg9eogzqLLLhcl1okXPSyjWm/pQt18F8FxFQFKaP9owXGZ1IRJqEyznSFY0OhYvAwY35
+40c0UIBxC3FiB1dEhn466b80zdMUv1Y61sVQVXg/USe3UiiotPrIh8/A/tx+cjwDpZUJlOz/orok
+wE2of9EU9RXhdMe00KQv+5Z1FizegExRH5AGiupQBrQR0Dl4kVmCR6tzvXV2n77pZKTTiO7kgrTn
+MI2j93bLFua2FaxDpNpssSBeMezfZbxqaTqkYrO33XbyGY80Vc53udZow7/s/f6aifJoQ6K/JKMf
+NFFA3v61G3PIksUlGkZt8867mI9GOGI0CLBGm4s=</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Object-Id-11a0cc05-38e7-4d10-a015-9009abf4aa73"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Target="DSIG72e6eee8-338e-4e87-a5ec-17735f29f23b">
+<xades:SignedProperties Id="Signed-Properties-Id-a75f9785-2f94-4617-91f4-8f544c0573c7">
+<xades:SignedSignatureProperties>
+<xades:SigningTime>2018-11-13T00:00:55.806+03:00</xades:SigningTime>
+<xades:SigningCertificate>
+<xades:Cert>
+<xades:CertDigest>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>+sXlVIKeeQDVSYObaZGWRqYweNCeo+Y8glOe44Slo+Y=</ds:DigestValue>
+</xades:CertDigest>
+<xades:IssuerSerial>
+<ds:X509IssuerName>CN=Mali Mühür Elektronik Sertifika Hizmet Sağlayıcısı - Sürüm 2,C=TR</ds:X509IssuerName>
+<ds:X509SerialNumber>49200191563347092</ds:X509SerialNumber>
+</xades:IssuerSerial>
+</xades:Cert>
+</xades:SigningCertificate>
+<xades:SignerRole>
+<xades:ClaimedRoles>
+<xades:ClaimedRole>Supplier</xades:ClaimedRole>
+</xades:ClaimedRoles>
+</xades:SignerRole>
+</xades:SignedSignatureProperties>
+<xades:SignedDataObjectProperties>
+<xades:DataObjectFormat ObjectReference="#Reference-Id-534d0aea-dbba-4048-b0ec-60e5d29076cd">
+<xades:MimeType>text/xml</xades:MimeType>
+</xades:DataObjectFormat>
+</xades:SignedDataObjectProperties>
+</xades:SignedProperties>
+<xades:UnsignedProperties>
+<xades:UnsignedSignatureProperties>
+
+<xades:SignatureTimeStamp Id="SignatureTimeStamp-Id-97aac995-31b3-46bd-9ba9-def51c4b8bec">
+<xades:EncapsulatedTimeStamp>MIIJ5wYJKoZIhvcNAQcCoIIJ2DCCCdQCAQExDTALBglghkgBZQMEAgEwgYoGCyqGSIb3DQEJEAEE
+oHsEeTB3AgEBBgtghhgBAgEBBQcDATAvMAsGCWCGSAFlAwQCAQQgl+X8/YVP1dIcopWqlQ3rkkuO
+FWzwArhGpd59K3vazN8CBAHeEqEYEzIwMTgxMTEyMjEwMTExLjI2NVowAwIBAQIU1WOBc6dyIBHx
+aAhfXsTvs2rux/qgggXDMIIFvzCCBKegAwIBAgIHAOGDr3ABmjANBgkqhkiG9w0BAQsFADCBxjEL
+MAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0gS29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUg
+QmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TEsXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxEDAO
+BgNVBAsMB0LEsExHRU0xQjBABgNVBAMMOUthbXUgU00gS8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNh
+xJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gNTAeFw0xODA5MDUxNDI4MDJaFw0yMTA5MDQxNDI4MDJa
+MFMxCzAJBgNVBAYTAlRSMRAwDgYDVQQKDAdUVUJJVEFLMTIwMAYDVQQDDClLYW11IFNNIFphbWFu
+IERhbWdhc2kgU3VudWN1c3UgU3VydW0gNC1TMjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALiPqtiniiI8wcrb/XAqihn6JE5txX+9MJtCOVRpQc5PHY9h7eMUieOR+0CaLYHs2lQi5mzU
+QYLckDz8Tw/KpiaXenFIjecMPdqXaW+VIipGnLgkP9M//eFYh7+Nyh2IbNnSHPUQk9B8dvgCyhAF
+1R+z9TD88+EupzRytA6z+DEUQz/5ETYNq7CMjCOUa/+prMvxRZ3GAmJOYu4U4yp5sGAlCRqp0XZw
+XdIm3khZ7LYDopWa78HJg0buIqIMxcj2ouIPA52Le45nWwlDzbQTgdec3TXyDhXoJ28Brf/sEhgv
+k8oJvYwyMfXjG1f/MLmyW88Q6OOdAUnTUDhYHDa9NqsCAwEAAaOCAiIwggIeMB8GA1UdIwQYMBaA
+FDfrNwD3Fb1Te8yJznHxNP3iFqYCMB0GA1UdDgQWBBTILiW7aFuUNsKvTVTQDpkL9QZodzAOBgNV
+HQ8BAf8EBAMCBsAwggEgBgNVHSAEggEXMIIBEzCCAQ8GC2CGGAECAQEFBwMBMIH/MCoGCCsGAQUF
+BwIBFh5odHRwOi8vZGVwby5rYW11c20uZ292LnRyL2lsa2UwgdAGCCsGAQUFBwICMIHDHoHAAEIA
+dQAgAHMAZQByAHQAaQBmAGkAawBhACAAaQBsAGUAIABpAGwAZwBpAGwAaQAgAHMAZQByAHQAaQBm
+AGkAawBhACAAaQBsAGsAZQBsAGUAcgBpAG4AaQAgAG8AawB1AG0AYQBrACAAaQDnAGkAbgAgAGIA
+ZQBsAGkAcgB0AGkAbABlAG4AIAB3AGUAYgAgAHMAaQB0AGUAcwBpAG4AaQAgAHoAaQB5AGEAcgBl
+AHQAIABlAGQAaQBuAGkAegAuMAkGA1UdEwQCMAAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwgwPAYD
+VR0fBDUwMzAxoC+gLYYraHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9uZXMva29rc2hzLnY1LmNy
+bDBHBggrBgEFBQcBAQQ7MDkwNwYIKwYBBQUHMAKGK2h0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIv
+bmVzL2tva3Nocy52NS5jcnQwDQYJKoZIhvcNAQELBQADggEBAAVTxeoeABjvXUFVTMziyi9cKORw
+m8183zjs/TVZZeBhkKMxDzWZDq09y0G/qji8kutdlql0xaz199Ouu18TqZYyJX/to8UwDRBgiuRt
+yzNNPmpvUam4aCH1lIfbO6VheJqdwmsmwdr19x3OyxBBS5SUC0D/1e/gykayXndJXM3MAYBpKO47
+g2hwAJ5ZIgecbMx6m/OPAQwYd/l3KG/MAQNCmFJYj3DkFygexC485skikVvwd/eIBa9tftwZI2hO
+ZGuMD4cguWUZOInhjRjV5ariFpJpdkWhb1kGOi5Awl3h13PeQcMjbvKvXRohWP14rO0X1La/18WQ
+YLwEBgG/MpwxggNqMIIDZgIBATCB0jCBxjELMAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0g
+S29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUgQmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TE
+sXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxEDAOBgNVBAsMB0LEsExHRU0xQjBABgNVBAMMOUthbXUg
+U00gS8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNhxJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gNQIHAOGD
+r3ABmjALBglghkgBZQMEAgGgggFqMBoGCSqGSIb3DQEJAzENBgsqhkiG9w0BCRABBDAvBgkqhkiG
+9w0BCQQxIgQgdlDjuR0sHCFw0VjTT369GxDLtun7ydJVxdKqeOUzrtEwggEZBgsqhkiG9w0BCRAC
+LzGCAQgwggEEMIIBADCB/QQgwHZThQ8EK6T+/2iOeG6kBQq++dtXowlmTs1s6N5A1OIwgdgwgcyk
+gckwgcYxCzAJBgNVBAYTAlRSMRgwFgYDVQQHDA9HZWJ6ZSAtIEtvY2FlbGkxRzBFBgNVBAoMPlTD
+vHJraXllIEJpbGltc2VsIHZlIFRla25vbG9qaWsgQXJhxZ90xLFybWEgS3VydW11IC0gVMOcQsSw
+VEFLMRAwDgYDVQQLDAdCxLBMR0VNMUIwQAYDVQQDDDlLYW11IFNNIEvDtmsgU2VydGlmaWthIEhp
+em1ldCBTYcSfbGF5xLFjxLFzxLEgLSBTw7xyw7xtIDUCBwDhg69wAZowDQYJKoZIhvcNAQELBQAE
+ggEAp+FhU3lhrcM16EpoXaP8MAZumyat+0WkxyCj19Wxb9S/yDU0Nf9UaLJn5USBvMHcCNTCu44j
+qmYG7MJ7eLCxkt9UcMVBa8I2+UlLXwLve4yUMebzfHRRAP62wFM5jz2iJzgwTjCKl9UM9n+D6zmX
+DDsqPZsv354fZGg0seRxGWVGZNzylqVA817Mnd/mOOWvMWuKPjJN+G1ZTEo9PR0lQ4YnVXL7+Tca
+GqWTu1/sy03ePMwZVPytlGm/RoYcgf1dUZb7Tmh5KVP1jvTkrubLKe2avqBYJz/Gqo1bIjODpot8
+KcNi9NTtpg6WfaCG5tu42pvcXzglGNSp9GUKRgeA4A==</xades:EncapsulatedTimeStamp>
+</xades:SignatureTimeStamp>
+<xades141:TimeStampValidationData xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" URI="#SignatureTimeStamp-Id-97aac995-31b3-46bd-9ba9-def51c4b8bec">
+<xades:CertificateValues><xades:EncapsulatedX509Certificate Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIIEUDCCAzigAwIBAgIGLLmOuQDFMA0GCSqGSIb3DQEBCwUAMIHGMQswCQYDVQQGEwJUUjEYMBYG
+A1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBCaWxpbXNlbCB2ZSBUZWtu
+b2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELEsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFC
+MEAGA1UEAww5S2FtdSBTTSBLw7ZrIFNlcnRpZmlrYSBIaXptZXQgU2HEn2xhecSxY8Sxc8SxIC0g
+U8O8csO8bSA1MB4XDTEzMDExNTEyNTEzNFoXDTIzMDExMzEyNTEzNFowgcYxCzAJBgNVBAYTAlRS
+MRgwFgYDVQQHDA9HZWJ6ZSAtIEtvY2FlbGkxRzBFBgNVBAoMPlTDvHJraXllIEJpbGltc2VsIHZl
+IFRla25vbG9qaWsgQXJhxZ90xLFybWEgS3VydW11IC0gVMOcQsSwVEFLMRAwDgYDVQQLDAdCxLBM
+R0VNMUIwQAYDVQQDDDlLYW11IFNNIEvDtmsgU2VydGlmaWthIEhpem1ldCBTYcSfbGF5xLFjxLFz
+xLEgLSBTw7xyw7xtIDUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCCSM0RI3Xw85mY
+yKteRLO7FqoilGq0gQrmMmAbndhJfn9pGEKEFdTNssGhXK+XDS297NljUyV80TBGq1IRCbNxYUmJ
+acfbaZvr52cfePO/tZLIVHwAwMFnMQjt3k6MKO/Og4L0z9mHiS2GqkjsFrRVMAikXQk15kqp1z9B
+JZ9+EpZwdks8ZP5xpX0Sm4L9CjkeAMhR6T9zl3kYEX/eTF3///YErdcLdx1QJ1wxuC0U3lbvzS8g
+7UZIhutUPYlciJvNux3fN9yIXyEXDWx2J7PSWb7Y9rN9Yaf04dIR1R6C9anGaail9oD/WPT9d/wS
+q8SUMaIwWSOZFO1cmEx6LBldAgMBAAGjQjBAMB0GA1UdDgQWBBQ36zcA9xW9U3vMic5x8TT94ham
+AjAOBgNVHQ8BAf8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAdUpv
+ROJnInv27ybyLJ56sVJinVcvUH0BP229jvw9jKr1GTZ1SkfQmAypYqtfmT+IYDf1T0HvVQQgJ/SJ
+SwZfM1XV3y/G32bgRSGKtAX/n0Y9nQesyRB3Y+2KEETQigJ6oP26+Y0/7xBIvlMBCSgTwAj8rwNq
+rMOVj7TfA9t4LZJmG/JvV0gaFtlTtRL4Ib8JFH3iUfqU0K+qAyUHpQcyqc2pyuMPWeLn/K7v9AM+
+tsg4ltYxIfz2TQkrsE2dyKmNIQVZuK3RQDPPf2+zvA3pJ+DUIrucTvD417fTVy0NPetxTTQWKmEq
+cMw4tSRWSe/M7K1Q/8hM+cvANgOc8GAhIg==</xades:EncapsulatedX509Certificate>
+</xades:CertificateValues>
+<xades:RevocationValues>
+<xades:CRLValues>
+<xades:EncapsulatedCRLValue Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIICQzCCASsCAQEwDQYJKoZIhvcNAQELBQAwgcYxCzAJBgNVBAYTAlRSMRgwFgYDVQQHDA9HZWJ6
+ZSAtIEtvY2FlbGkxRzBFBgNVBAoMPlTDvHJraXllIEJpbGltc2VsIHZlIFRla25vbG9qaWsgQXJh
+xZ90xLFybWEgS3VydW11IC0gVMOcQsSwVEFLMRAwDgYDVQQLDAdCxLBMR0VNMUIwQAYDVQQDDDlL
+YW11IFNNIEvDtmsgU2VydGlmaWthIEhpem1ldCBTYcSfbGF5xLFjxLFzxLEgLSBTw7xyw7xtIDUX
+DTE4MDkwNTE0MTIxMFoXDTE5MDcwNzE0MTIxMFqgMDAuMAsGA1UdFAQEAgIBLDAfBgNVHSMEGDAW
+gBQ36zcA9xW9U3vMic5x8TT94hamAjANBgkqhkiG9w0BAQsFAAOCAQEAdaosb4zlq+pTqz58wqEw
+n/2HuhSxFQaRTn2Lm3c5KdSHVpaQjwol5SNNDPj5MdvF06vETjOwei9xdDJxFobesg1IfQNHl8Lx
+5rmNr0roQGgAgLaHOlX5+d20z/qNtCZA44CwzMMV4HooiwNgwpTvycQrMjydoKcDLqbwHQKw5mif
+zFUZhZ0uCl1hXl3JBWujuAyJZVvm/eNJNLuGMn8tGq3uCFdXRe01jR+BJWZ/VHfnAzmtg/o9CT9r
+0YGsz2LX5PB+DfagOqcV4zvoU+XlWmeJ4gqTLSZH64RxzcXGayXW6RzDptoyvgd3MKisXprtny3j
+ZuxlI/vNQM/5SP1mlg==</xades:EncapsulatedCRLValue>
+</xades:CRLValues>
+
+</xades:RevocationValues>
+</xades141:TimeStampValidationData>
+<xades:CompleteCertificateRefs>
+<xades:CertRefs>
+<xades:Cert>
+<xades:CertDigest>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>UI5yp7shKSP7A0w+dSmSVaDlT8/0sMcOO7M/r2M/A8E=</ds:DigestValue>
+</xades:CertDigest>
+<xades:IssuerSerial>
+<ds:X509IssuerName>CN=KamuSM Kurumsal Kök Sertifika Hizmet Sağlayıcısı - Sürüm 1,OU=Kamu Sertifikasyon Merkezi,OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE,O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK,L=Gebze - Kocaeli,C=TR</ds:X509IssuerName>
+<ds:X509SerialNumber>140333657427</ds:X509SerialNumber>
+</xades:IssuerSerial>
+</xades:Cert>
+<xades:Cert>
+<xades:CertDigest>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>3Cx5fq0nGgYRePv1VPVqU72/jVRyfXw6iF4gmnPVKqg=</ds:DigestValue>
+</xades:CertDigest>
+<xades:IssuerSerial>
+<ds:X509IssuerName>CN=KamuSM Kurumsal Kök Sertifika Hizmet Sağlayıcısı - Sürüm 1,OU=Kamu Sertifikasyon Merkezi,OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE,O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK,L=Gebze - Kocaeli,C=TR</ds:X509IssuerName>
+<ds:X509SerialNumber>2</ds:X509SerialNumber>
+</xades:IssuerSerial>
+</xades:Cert>
+<xades:Cert>
+<xades:CertDigest>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>m/Nm0ciHP4tYKDmKb5s07FZiM6cCGEYei9rm2iKlTdc=</ds:DigestValue>
+</xades:CertDigest>
+<xades:IssuerSerial>
+<ds:X509IssuerName>CN=Mali Mühür Elektronik Sertifika Hizmet Sağlayıcısı - Sürüm 2,C=TR</ds:X509IssuerName>
+<ds:X509SerialNumber>10931720060883366</ds:X509SerialNumber>
+</xades:IssuerSerial>
+</xades:Cert>
+</xades:CertRefs>
+</xades:CompleteCertificateRefs>
+<xades:CompleteRevocationRefs>
+<xades:CRLRefs>
+<xades:CRLRef>
+<xades:DigestAlgAndValue>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>f+p7uu0aAaVGbekSQ0ix/FmM7B9jn8glB3lThJgeb4g=</ds:DigestValue>
+</xades:DigestAlgAndValue>
+<xades:CRLIdentifier><xades:Issuer>CN=KamuSM Kurumsal Kök Sertifika Hizmet Sağlayıcısı - Sürüm 1,OU=Kamu Sertifikasyon Merkezi,OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE,O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK,L=Gebze - Kocaeli,C=TR</xades:Issuer>
+<xades:IssueTime>2018-09-05T17:43:02.000+03:00</xades:IssueTime>
+<xades:Number>59</xades:Number>
+</xades:CRLIdentifier>
+</xades:CRLRef>
+</xades:CRLRefs>
+<xades:OCSPRefs>
+<xades:OCSPRef><xades:OCSPIdentifier>
+<xades:ResponderID>
+<xades:ByKey>gKbaxKVmc/0r899EJPm2/9GyMUo=</xades:ByKey>
+
+</xades:ResponderID>
+<xades:ProducedAt>2018-11-13T00:01:12.000+03:00</xades:ProducedAt>
+</xades:OCSPIdentifier>
+<xades:DigestAlgAndValue>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>AYd45MCeSHyRso0osTOjomJQTo6SLyqhbEy6X3NiOFI=</ds:DigestValue>
+</xades:DigestAlgAndValue>
+</xades:OCSPRef>
+</xades:OCSPRefs>
+</xades:CompleteRevocationRefs>
+<xades:SigAndRefsTimeStamp Id="SigAndRefsTimeStamp-Id-5450931c-3b86-4ddd-999f-a6922f025fe3">
+<xades:EncapsulatedTimeStamp>MIIJ5wYJKoZIhvcNAQcCoIIJ2DCCCdQCAQExDTALBglghkgBZQMEAgEwgYoGCyqGSIb3DQEJEAEE
+oHsEeTB3AgEBBgtghhgBAgEBBQcDATAvMAsGCWCGSAFlAwQCAQQgjHtFM0DYXhKQ7uXtaWubW0gZ
+0CW4Y1nN8Fnhlm/rfsgCBAHeEqcYEzIwMTgxMTEyMjEwMTEyLjE1NlowAwIBAQIUWPDjuyDpkWBZ
+RZ0A4vALGyAW+DqgggXDMIIFvzCCBKegAwIBAgIHAOGDr3ABmjANBgkqhkiG9w0BAQsFADCBxjEL
+MAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0gS29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUg
+QmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TEsXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxEDAO
+BgNVBAsMB0LEsExHRU0xQjBABgNVBAMMOUthbXUgU00gS8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNh
+xJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gNTAeFw0xODA5MDUxNDI4MDJaFw0yMTA5MDQxNDI4MDJa
+MFMxCzAJBgNVBAYTAlRSMRAwDgYDVQQKDAdUVUJJVEFLMTIwMAYDVQQDDClLYW11IFNNIFphbWFu
+IERhbWdhc2kgU3VudWN1c3UgU3VydW0gNC1TMjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALiPqtiniiI8wcrb/XAqihn6JE5txX+9MJtCOVRpQc5PHY9h7eMUieOR+0CaLYHs2lQi5mzU
+QYLckDz8Tw/KpiaXenFIjecMPdqXaW+VIipGnLgkP9M//eFYh7+Nyh2IbNnSHPUQk9B8dvgCyhAF
+1R+z9TD88+EupzRytA6z+DEUQz/5ETYNq7CMjCOUa/+prMvxRZ3GAmJOYu4U4yp5sGAlCRqp0XZw
+XdIm3khZ7LYDopWa78HJg0buIqIMxcj2ouIPA52Le45nWwlDzbQTgdec3TXyDhXoJ28Brf/sEhgv
+k8oJvYwyMfXjG1f/MLmyW88Q6OOdAUnTUDhYHDa9NqsCAwEAAaOCAiIwggIeMB8GA1UdIwQYMBaA
+FDfrNwD3Fb1Te8yJznHxNP3iFqYCMB0GA1UdDgQWBBTILiW7aFuUNsKvTVTQDpkL9QZodzAOBgNV
+HQ8BAf8EBAMCBsAwggEgBgNVHSAEggEXMIIBEzCCAQ8GC2CGGAECAQEFBwMBMIH/MCoGCCsGAQUF
+BwIBFh5odHRwOi8vZGVwby5rYW11c20uZ292LnRyL2lsa2UwgdAGCCsGAQUFBwICMIHDHoHAAEIA
+dQAgAHMAZQByAHQAaQBmAGkAawBhACAAaQBsAGUAIABpAGwAZwBpAGwAaQAgAHMAZQByAHQAaQBm
+AGkAawBhACAAaQBsAGsAZQBsAGUAcgBpAG4AaQAgAG8AawB1AG0AYQBrACAAaQDnAGkAbgAgAGIA
+ZQBsAGkAcgB0AGkAbABlAG4AIAB3AGUAYgAgAHMAaQB0AGUAcwBpAG4AaQAgAHoAaQB5AGEAcgBl
+AHQAIABlAGQAaQBuAGkAegAuMAkGA1UdEwQCMAAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwgwPAYD
+VR0fBDUwMzAxoC+gLYYraHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9uZXMva29rc2hzLnY1LmNy
+bDBHBggrBgEFBQcBAQQ7MDkwNwYIKwYBBQUHMAKGK2h0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIv
+bmVzL2tva3Nocy52NS5jcnQwDQYJKoZIhvcNAQELBQADggEBAAVTxeoeABjvXUFVTMziyi9cKORw
+m8183zjs/TVZZeBhkKMxDzWZDq09y0G/qji8kutdlql0xaz199Ouu18TqZYyJX/to8UwDRBgiuRt
+yzNNPmpvUam4aCH1lIfbO6VheJqdwmsmwdr19x3OyxBBS5SUC0D/1e/gykayXndJXM3MAYBpKO47
+g2hwAJ5ZIgecbMx6m/OPAQwYd/l3KG/MAQNCmFJYj3DkFygexC485skikVvwd/eIBa9tftwZI2hO
+ZGuMD4cguWUZOInhjRjV5ariFpJpdkWhb1kGOi5Awl3h13PeQcMjbvKvXRohWP14rO0X1La/18WQ
+YLwEBgG/MpwxggNqMIIDZgIBATCB0jCBxjELMAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0g
+S29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUgQmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TE
+sXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxEDAOBgNVBAsMB0LEsExHRU0xQjBABgNVBAMMOUthbXUg
+U00gS8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNhxJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gNQIHAOGD
+r3ABmjALBglghkgBZQMEAgGgggFqMBoGCSqGSIb3DQEJAzENBgsqhkiG9w0BCRABBDAvBgkqhkiG
+9w0BCQQxIgQgKAxrM7axYD+iDLAKNfJS+MgODcvhWARwzjlhTRqqergwggEZBgsqhkiG9w0BCRAC
+LzGCAQgwggEEMIIBADCB/QQgwHZThQ8EK6T+/2iOeG6kBQq++dtXowlmTs1s6N5A1OIwgdgwgcyk
+gckwgcYxCzAJBgNVBAYTAlRSMRgwFgYDVQQHDA9HZWJ6ZSAtIEtvY2FlbGkxRzBFBgNVBAoMPlTD
+vHJraXllIEJpbGltc2VsIHZlIFRla25vbG9qaWsgQXJhxZ90xLFybWEgS3VydW11IC0gVMOcQsSw
+VEFLMRAwDgYDVQQLDAdCxLBMR0VNMUIwQAYDVQQDDDlLYW11IFNNIEvDtmsgU2VydGlmaWthIEhp
+em1ldCBTYcSfbGF5xLFjxLFzxLEgLSBTw7xyw7xtIDUCBwDhg69wAZowDQYJKoZIhvcNAQELBQAE
+ggEAbkNg7ogk6cu77KckHWh6ml32qKMVkOr1Q0NtHW462ReZEcqRkbA+pi9Fgl2Mms+mZEsjJ6/s
+H4rtQf2msIHV6HI6MA4UpDskS1ZVM9EP9PIRCRHvok6RxJbuhJzqbrabEdAoKiTij0pvHxxYT2Ne
+Z0k3Ilmsqbc29RIBVh9j3qqQCarS0m1o3W7dbKg0ECFMgqfrtfZcybQUmbAtD0ZewkyoU/J4TrXI
+7R0QA4WhuHsiQw2clWHI28jvlp/JYDpfOSYz0iWQ8O17NUw7C46mMa4riVbMRwVbx2MKnFnUCpmO
+D+YI5e3ZwO4DmnSR2uKBqc8NIjqpcEMo6cUnyZmE7g==</xades:EncapsulatedTimeStamp>
+</xades:SigAndRefsTimeStamp>
+<xades:CertificateValues><xades:EncapsulatedX509Certificate Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIIGPjCCBSagAwIBAgIFIKyJrVMwDQYJKoZIhvcNAQELBQAwggErMQswCQYDVQQGEwJUUjEYMBYG
+A1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBCaWxpbXNlbCB2ZSBUZWtu
+b2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELEsFRBSzFIMEYGA1UECww/VWx1c2FsIEVs
+ZWt0cm9uaWsgdmUgS3JpcHRvbG9qaSBBcmHFn3TEsXJtYSBFbnN0aXTDvHPDvCAtIFVFS0FFMSMw
+IQYDVQQLDBpLYW11IFNlcnRpZmlrYXN5b24gTWVya2V6aTFKMEgGA1UEAwxBS2FtdVNNIEt1cnVt
+c2FsIEvDtmsgU2VydGlmaWthIEhpem1ldCBTYcSfbGF5xLFjxLFzxLEgLSBTw7xyw7xtIDEwHhcN
+MTYxMjA5MTcwNDMzWhcNMjYxMjA3MTcwNDMzWjBcMQswCQYDVQQGEwJUUjFNMEsGA1UEAwxETWFs
+aSBNw7xow7xyIEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYcSfbGF5xLFjxLFzxLEgLSBT
+w7xyw7xtIDIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9lsay8wpB1rW9Bykz9eZm
+s1QaZLvV+CXE1ajg4D1Gcp7KcQoNRxa8Fc3V0j+uzOpFIB0umH559s6nODtOWuimovpVWL0b3E3+
+ypXzyP13+V/vmMRm4rQ2a9z5es5CWp/3sAOsD2Z2EFig8lOh+/TOzjkhrVM1HeMTIEYR7TRsDQz3
+lmPlrER6C8TO/Zstk4Od/hbXRRbsJo5CNwUBoZYzD6D/1EeDfXF+mY5yawVdmeiDZ9CzTMAKCJPj
+++KoW44dbdtxkayXJ6XamxqS4fz7kG1fxczmhvEExyYHmRQyrk8lbCNSfzLJdUY223iWZtNfa0GE
+xMXPaq7XgN8AB08FAgMBAAGjggI0MIICMDAfBgNVHSMEGDAWgBSB6Q9GFpo2Vb1ISaWWz5L61omC
+MjAdBgNVHQ4EFgQUA4T6lzHn9IcZL2Ur4bQbY6evdb4wDgYDVR0PAQH/BAQDAgEGMIIBMwYDVR0g
+BIIBKjCCASYwggEiBgtghhgBAgEBBQcEATCCAREwKgYIKwYBBQUHAgEWHmh0dHA6Ly9kZXBvLmth
+bXVzbS5nb3YudHIvaWxrZTCB4gYIKwYBBQUHAgIwgdUegdIAQgB1ACAAcwBlAHIAdABpAGYAaQBr
+AGEAIABpAGwAZQAgAGkAbABnAGkAbABpACAAcwBlAHIAdABpAGYAaQBrAGEAIAB1AHkAZwB1AGwA
+YQBtAGEAIABlAHMAYQBzAGwAYQByATEAbgExACAAbwBrAHUAbQBhAGsAIABpAOcAaQBuACAAYgBl
+AGwAaQByAHQAaQBsAGUAbgAgAHcAZQBiACAAcwBpAHQAZQBzAGkAbgBpACAAegBpAHkAYQByAGUA
+dAAgAGUAZABpAG4AaQB6AC4wEgYDVR0TAQH/BAgwBgEB/wIBADBDBgNVHR8EPDA6MDigNqA0hjJo
+dHRwOi8vZGVwby5rYW11c20uZ292LnRyL2t1cnVtc2FsL2t1cnVtc2FsLXMxLmNybDBOBggrBgEF
+BQcBAQRCMEAwPgYIKwYBBQUHMAKGMmh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIva3VydW1zYWwv
+a3VydW1zYWwtczEuY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQAMualxWqvtd4pLQBTtfUYRniFoN8/Z
+yPZjvBAkjkdF1eig+JfmLPMLd/rqUjYHZZ5flJ/HPH1R26LXvQvwcmEDpNc+8NcpO3QnznpJUbXE
+Fpsa2b8f/aFl2Jj/K0Nsab1q6rgjZnzl8s03TFl1C9V+0o139D9H7WyilUNTNxH2UN8EOOGHgQ7O
++WWBPVy99zHrqyYK/HFTKhx+TjNDg5AZ+nlZeMB5sxusDxY4+rQ3vmxwyN9XjqQb+09RdkhvyszS
+GcSZDc6dh4drT1rqRSXMpwpeEgXwlsL7HySXJn0Y17LcqhaeNck1Mz5pr6i/wNymjyBLE2hSDJ/E
+cqPSR8R+</xades:EncapsulatedX509Certificate>
+<xades:EncapsulatedX509Certificate Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIIFFzCCA/+gAwIBAgIBAjANBgkqhkiG9w0BAQsFADCCASsxCzAJBgNVBAYTAlRSMRgwFgYDVQQH
+DA9HZWJ6ZSAtIEtvY2FlbGkxRzBFBgNVBAoMPlTDvHJraXllIEJpbGltc2VsIHZlIFRla25vbG9q
+aWsgQXJhxZ90xLFybWEgS3VydW11IC0gVMOcQsSwVEFLMUgwRgYDVQQLDD9VbHVzYWwgRWxla3Ry
+b25payB2ZSBLcmlwdG9sb2ppIEFyYcWfdMSxcm1hIEVuc3RpdMO8c8O8IC0gVUVLQUUxIzAhBgNV
+BAsMGkthbXUgU2VydGlmaWthc3lvbiBNZXJrZXppMUowSAYDVQQDDEFLYW11U00gS3VydW1zYWwg
+S8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNhxJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gMTAeFw0wOTEx
+MTIwOTI5MTRaFw0zMDExMTIwOTI5MTRaMIIBKzELMAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnpl
+IC0gS29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUgQmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHF
+n3TEsXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxSDBGBgNVBAsMP1VsdXNhbCBFbGVrdHJvbmlrIHZl
+IEtyaXB0b2xvamkgQXJhxZ90xLFybWEgRW5zdGl0w7xzw7wgLSBVRUtBRTEjMCEGA1UECwwaS2Ft
+dSBTZXJ0aWZpa2FzeW9uIE1lcmtlemkxSjBIBgNVBAMMQUthbXVTTSBLdXJ1bXNhbCBLw7ZrIFNl
+cnRpZmlrYSBIaXptZXQgU2HEn2xhecSxY8Sxc8SxIC0gU8O8csO8bSAxMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAnPiXRiHbaxb+7AfXezYe8gZqRx31uMVUVy/ReSP2acL0LwmAmbj6
+nID/4feerlsUui08E4kMaE+zlhg7Oz1I3GLdArEsdIW3ZtHGyz3/Gu8DhIK12+lcStMOT8JQgFXI
+y4OVsBzo9a1K96zV0rvO7OgLEDMRnDbK2252UK6Z4gxQPt+pAc7z2GUWfc9fhalM3DTApiVA6G9c
+YIC8B4W+U78LI0c+k37AUy1emjdWvEqBvp5C1jqFGtyJRHpm0K5H07Gr6v6aS3791V1eHCGq0Ddt
+Z8doNLsboWPxUlA9QYZjKV8SZogb+aM9idUB4ENq9YcGhkVSV+NcVBxlJmDCBQIDAQABo0IwQDAd
+BgNVHQ4EFgQUgekPRhaaNlW9SEmlls+S+taJgjIwDgYDVR0PAQH/BAQDAgEGMA8GA1UdEwEB/wQF
+MAMBAf8wDQYJKoZIhvcNAQELBQADggEBADXyjDCQR+B/IKsBy7IPvEBiKBSIRhVw3ZsH6+epfrlS
+GP99lOn4E9UA+X5884VeddSmLXWn6xGPK5yS/pnYiclm8+5ISfemgz95VzWU396x5FYI4/OY0sR3
+ybXVnpjG3a7Sj1rV5cmpu632O378AGXdDB1leORryoVzZf31VGSw1wJ5psKEV9mkIaOE2Zmgi5A9
+A/aOiCS29d7xuA7EfGB+90yvJCzDRr1aUpAiiMDgu4d21lm8NdB8a/EepItm7btg0rVtEaMNA4p6
+e74cLE2AgsTwyHoI4IC4IktZ2L/JGpX0wbLInvq8HZ99De91jfEOhxD6jG3pwmZ6SokBttA=</xades:EncapsulatedX509Certificate>
+<xades:EncapsulatedX509Certificate Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIIGDzCCBPegAwIBAgIHJtZXawNRpjANBgkqhkiG9w0BAQsFADBcMQswCQYDVQQGEwJUUjFNMEsG
+A1UEAwxETWFsaSBNw7xow7xyIEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYcSfbGF5xLFj
+xLFzxLEgLSBTw7xyw7xtIDIwHhcNMTYxMjA5MTkxODE5WhcNMjExMjA4MTkxODE5WjCB4jELMAkG
+A1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0gS29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUgQmls
+aW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TEsXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxLTArBgNV
+BAsMJEthbXUgU2VydGlmaWthc3lvbiBNZXJrZXppIC0gS2FtdSBTTTFBMD8GA1UEAww4VMOcQsSw
+VEFLIEthbXUgU00gTWFsaSBNw7xow7xyIE9DU1AgU3VudWN1c3UgLSBTw7xyw7xtIDIwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCWzut/2kJd9ZXA9CyN/2XJz2YZR5UCiuAQLKSBWoAa
+jvxRu3ahFb18GAmMin0Wa7bFdNzmEBM6qPQ3Atj7oiUDFjHCgGS03kPnfm6WaB46yCe+r2xyMzjV
+czH98V2k/MW9uF9cAJ6h1F0hDKvOeXCcMjM5RdWcJXH3fYCqU1vuUi2fp21iNgbj21sVvle7N6t8
+oYMi+RTUUr1vlm7+Aym6i6iDs+RwTv4xxH0DLBnJhWcjaMwhtoglk+uILGhrM5KDCQdbmBqJEmkq
+Q4742NmEWs/kJhj4WxsMY2WtrmBDTdScU5xyU2B+JvxfasgEVfikv3Lom979arT83WdFlPR7AgMB
+AAGjggJNMIICSTAfBgNVHSMEGDAWgBQDhPqXMef0hxkvZSvhtBtjp691vjAdBgNVHQ4EFgQUgKba
+xKVmc/0r899EJPm2/9GyMUowDgYDVR0PAQH/BAQDAgbAMIIBMwYDVR0gBIIBKjCCASYwggEiBgtg
+hhgBAgEBBQcEATCCAREwKgYIKwYBBQUHAgEWHmh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvaWxr
+ZTCB4gYIKwYBBQUHAgIwgdUegdIAQgB1ACAAcwBlAHIAdABpAGYAaQBrAGEAIABpAGwAZQAgAGkA
+bABnAGkAbABpACAAcwBlAHIAdABpAGYAaQBrAGEAIAB1AHkAZwB1AGwAYQBtAGEAIABlAHMAYQBz
+AGwAYQByATEAbgExACAAbwBrAHUAbQBhAGsAIABpAOcAaQBuACAAYgBlAGwAaQByAHQAaQBsAGUA
+bgAgAHcAZQBiACAAcwBpAHQAZQBzAGkAbgBpACAAegBpAHkAYQByAGUAdAAgAGUAZABpAG4AaQB6
+AC4wCQYDVR0TBAIwADATBgNVHSUEDDAKBggrBgEFBQcDCTBBBgNVHR8EOjA4MDagNKAyhjBodHRw
+Oi8vZGVwby5rYW11c20uZ292LnRyL2t1cnVtc2FsL21tZXNocy1zMi5jcmwwTAYIKwYBBQUHAQEE
+QDA+MDwGCCsGAQUFBzAChjBodHRwOi8vZGVwby5rYW11c20uZ292LnRyL2t1cnVtc2FsL21tZXNo
+cy1zMi5jcnQwDwYJKwYBBQUHMAEFBAIFADANBgkqhkiG9w0BAQsFAAOCAQEAGxb6wCSLCuefi6kz
+/5ozOQIg1udzOT5ftcLkIeCAU/dbrqcnOAVVqmN2BSbQbesivB6TYRz86HJLXl5SKJiuaCzInhDz
+ifboqj7UHt6Gu6bxBe2auylMbm/aCxIpa/487D24bqDXdkkJUbeScX1+AjPUwHvzO9TmuUImnlnK
+EfVeknGoHjuacLSeWGVV1acIoLCzMCI/I977VhSX5E6fIFgmitGzWP3EmJBeoT/pGiF4+KSsRolS
+zDteXS0CwfqMhHd02pbe0sOsStlMtHN+S+n4bJ/FiF9cLvNfePvfQE6l4EJ8LWIhMPtxE3AZyJ34
+eT3ZR/HKlJ/vJ0BPnuKgUA==</xades:EncapsulatedX509Certificate>
+</xades:CertificateValues>
+<xades:RevocationValues>
+<xades:CRLValues>
+<xades:EncapsulatedCRLValue Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIICqDCCAZACAQEwDQYJKoZIhvcNAQELBQAwggErMQswCQYDVQQGEwJUUjEYMBYGA1UEBwwPR2Vi
+emUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBCaWxpbXNlbCB2ZSBUZWtub2xvamlrIEFy
+YcWfdMSxcm1hIEt1cnVtdSAtIFTDnELEsFRBSzFIMEYGA1UECww/VWx1c2FsIEVsZWt0cm9uaWsg
+dmUgS3JpcHRvbG9qaSBBcmHFn3TEsXJtYSBFbnN0aXTDvHPDvCAtIFVFS0FFMSMwIQYDVQQLDBpL
+YW11IFNlcnRpZmlrYXN5b24gTWVya2V6aTFKMEgGA1UEAwxBS2FtdVNNIEt1cnVtc2FsIEvDtmsg
+U2VydGlmaWthIEhpem1ldCBTYcSfbGF5xLFjxLFzxLEgLSBTw7xyw7xtIDEXDTE4MDkwNTE0NDMw
+MloXDTE5MDcwNjE0NDMwMlqgLzAtMAoGA1UdFAQDAgE7MB8GA1UdIwQYMBaAFIHpD0YWmjZVvUhJ
+pZbPkvrWiYIyMA0GCSqGSIb3DQEBCwUAA4IBAQBCbMLSFCaFSkidwFJ+1/jWwPn7zOzLv1yNyLRx
+Iji8aLTGa6ubBHROa9LfnpGIxFpeEwANkT/QLyVOiitMY6kP2YL4Ktz9ImyTLRWgSeRkXge74X4w
+qr4uyAZDi0t1lBHZPv9Yf9DwueZFh3nS1X9wZhwvo/5aMI2ut1iSz+hjyVTMVumI5exFi/nsYZr6
+Lq9Oe1Prkxf0Yr4N+2VGkz/LrdtWbH7pSYgKBbsvT5ZFTqp9JNY79Hat2lYf3mNdb90xjQI6//ZA
+BqdoMhbYCLrzDF1NQ66Ck+y/AT0nue5Hwc85TQRfphpN70nEVTxkcGCCBEqRGVjL4yPHl8oE4VaR
+</xades:EncapsulatedCRLValue>
+</xades:CRLValues>
+
+<xades:OCSPValues>
+<xades:EncapsulatedOCSPValue Encoding="http://uri.etsi.org/01903/v1.2.2#DER">MIIIEgoBAKCCCAswgggHBgkrBgEFBQcwAQEEggf4MIIH9DCBwqIWBBSAptrEpWZz/Svz30Qk+bb/
+0bIxShgPMjAxODExMTIyMTAxMTJaMHIwcDBbMAsGCWCGSAFlAwQCAQQglAu4DvB7LLreZ1XvMoH9
+aSjhcNiXt7B+NEJ/hUCt5dgEIHPnWBuzqdtUWJL4QtGIM2eWNNZchcxrsm30QGE61j84AggArstQ
+RQO0lIAAGA8yMDE4MTExMjIxMDExMlqhIzAhMB8GCSsGAQUFBzABAgQSBBCq96nLCZ1ykJaQpO9P
+WQlyMA0GCSqGSIb3DQEBCwUAA4IBAQCRxARJYCvoPV4Hb9k5gAn9nCP1TcLVNemUyoefYy9d8mT2
+fk8Xp6IU3wwNUFQv2RZEdTuAXykzE1MzOxN5TChU1BuA6coR6UXdVxIEHXGHLfRNNWqTK2tQlxid
+H8VIN5hpDkZxyyv73z+RWzZfprWJGMWiwJmtJIb8Z7t4UjST6/pGqZGR4sYpp7F4dF2ij+PG2iO4
+7UhTswzuMVl2jQk3UcAPjPWumzMGTspTPcdJxHOgk29I7JEHBXlikJrhF0c59yHlZBA0Cks8/Gxy
+ZuYos3nhUNSgTmOQJnadCuUBvHHipTN2mD7mF1l+fB3f2LeV/wtd3jKaP7seZqvbEWtdoIIGFzCC
+BhMwggYPMIIE96ADAgECAgcm1ldrA1GmMA0GCSqGSIb3DQEBCwUAMFwxCzAJBgNVBAYTAlRSMU0w
+SwYDVQQDDERNYWxpIE3DvGjDvHIgRWxla3Ryb25payBTZXJ0aWZpa2EgSGl6bWV0IFNhxJ9sYXnE
+sWPEsXPEsSAtIFPDvHLDvG0gMjAeFw0xNjEyMDkxOTE4MTlaFw0yMTEyMDgxOTE4MTlaMIHiMQsw
+CQYDVQQGEwJUUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC
+aWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELEsFRBSzEtMCsG
+A1UECwwkS2FtdSBTZXJ0aWZpa2FzeW9uIE1lcmtlemkgLSBLYW11IFNNMUEwPwYDVQQDDDhUw5xC
+xLBUQUsgS2FtdSBTTSBNYWxpIE3DvGjDvHIgT0NTUCBTdW51Y3VzdSAtIFPDvHLDvG0gMjCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJbO63/aQl31lcD0LI3/ZcnPZhlHlQKK4BAspIFa
+gBqO/FG7dqEVvXwYCYyKfRZrtsV03OYQEzqo9DcC2PuiJQMWMcKAZLTeQ+d+bpZoHjrIJ76vbHIz
+ONVzMf3xXaT8xb24X1wAnqHUXSEMq855cJwyMzlF1Zwlcfd9gKpTW+5SLZ+nbWI2BuPbWxW+V7s3
+q3yhgyL5FNRSvW+Wbv4DKbqLqIOz5HBO/jHEfQMsGcmFZyNozCG2iCWT64gsaGszkoMJB1uYGokS
+aSpDjvjY2YRaz+QmGPhbGwxjZa2uYENN1JxTnHJTYH4m/F9qyARV+KS/cuib3v1qtPzdZ0WU9HsC
+AwEAAaOCAk0wggJJMB8GA1UdIwQYMBaAFAOE+pcx5/SHGS9lK+G0G2Onr3W+MB0GA1UdDgQWBBSA
+ptrEpWZz/Svz30Qk+bb/0bIxSjAOBgNVHQ8BAf8EBAMCBsAwggEzBgNVHSAEggEqMIIBJjCCASIG
+C2CGGAECAQEFBwQBMIIBETAqBggrBgEFBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9p
+bGtlMIHiBggrBgEFBQcCAjCB1R6B0gBCAHUAIABzAGUAcgB0AGkAZgBpAGsAYQAgAGkAbABlACAA
+aQBsAGcAaQBsAGkAIABzAGUAcgB0AGkAZgBpAGsAYQAgAHUAeQBnAHUAbABhAG0AYQAgAGUAcwBh
+AHMAbABhAHIBMQBuATEAIABvAGsAdQBtAGEAawAgAGkA5wBpAG4AIABiAGUAbABpAHIAdABpAGwA
+ZQBuACAAdwBlAGIAIABzAGkAdABlAHMAaQBuAGkAIAB6AGkAeQBhAHIAZQB0ACAAZQBkAGkAbgBp
+AHoALjAJBgNVHRMEAjAAMBMGA1UdJQQMMAoGCCsGAQUFBwMJMEEGA1UdHwQ6MDgwNqA0oDKGMGh0
+dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIva3VydW1zYWwvbW1lc2hzLXMyLmNybDBMBggrBgEFBQcB
+AQRAMD4wPAYIKwYBBQUHMAKGMGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIva3VydW1zYWwvbW1l
+c2hzLXMyLmNydDAPBgkrBgEFBQcwAQUEAgUAMA0GCSqGSIb3DQEBCwUAA4IBAQAbFvrAJIsK55+L
+qTP/mjM5AiDW53M5Pl+1wuQh4IBT91uupyc4BVWqY3YFJtBt6yK8HpNhHPzockteXlIomK5oLMie
+EPOJ9uiqPtQe3oa7pvEF7Zq7KUxub9oLEilr/jzsPbhuoNd2SQlRt5JxfX4CM9TAe/M71Oa5Qiae
+WcoR9V6ScageO5pwtJ5YZVXVpwigsLMwIj8j3vtWFJfkTp8gWCaK0bNY/cSYkF6hP+kaIXj4pKxG
+iVLMO15dLQLB+oyEd3Talt7Sw6xK2Uy0c35L6fhsn8WIX1wu8194+99ATqXgQnwtYiEw+3ETcBnI
+nfh5PdlH8cqUn+8nQE+e4qBQ</xades:EncapsulatedOCSPValue>
+</xades:OCSPValues>
+
+</xades:RevocationValues>
+<xades141:ArchiveTimeStamp xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Id="ArchiveTimeStamp-Id-a826a284-6503-495a-af5b-ccc1a1e6dbc4">
+<xades:EncapsulatedTimeStamp>MIIJ5wYJKoZIhvcNAQcCoIIJ2DCCCdQCAQExDTALBglghkgBZQMEAgEwgYoGCyqGSIb3DQEJEAEE
+oHsEeTB3AgEBBgtghhgBAgEBBQcDATAvMAsGCWCGSAFlAwQCAQQgPKaGyLve2CY5jPadk0K1bN6n
+52bkvYIJxYGPCjQIWB8CBAHeEqkYEzIwMTgxMTEyMjEwMTEyLjM3NVowAwIBAQIU2tOZw5vPdTwY
+07K0rV5Z6GpBDG+gggXDMIIFvzCCBKegAwIBAgIHAOGDr3ABmjANBgkqhkiG9w0BAQsFADCBxjEL
+MAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0gS29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUg
+QmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TEsXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxEDAO
+BgNVBAsMB0LEsExHRU0xQjBABgNVBAMMOUthbXUgU00gS8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNh
+xJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gNTAeFw0xODA5MDUxNDI4MDJaFw0yMTA5MDQxNDI4MDJa
+MFMxCzAJBgNVBAYTAlRSMRAwDgYDVQQKDAdUVUJJVEFLMTIwMAYDVQQDDClLYW11IFNNIFphbWFu
+IERhbWdhc2kgU3VudWN1c3UgU3VydW0gNC1TMjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALiPqtiniiI8wcrb/XAqihn6JE5txX+9MJtCOVRpQc5PHY9h7eMUieOR+0CaLYHs2lQi5mzU
+QYLckDz8Tw/KpiaXenFIjecMPdqXaW+VIipGnLgkP9M//eFYh7+Nyh2IbNnSHPUQk9B8dvgCyhAF
+1R+z9TD88+EupzRytA6z+DEUQz/5ETYNq7CMjCOUa/+prMvxRZ3GAmJOYu4U4yp5sGAlCRqp0XZw
+XdIm3khZ7LYDopWa78HJg0buIqIMxcj2ouIPA52Le45nWwlDzbQTgdec3TXyDhXoJ28Brf/sEhgv
+k8oJvYwyMfXjG1f/MLmyW88Q6OOdAUnTUDhYHDa9NqsCAwEAAaOCAiIwggIeMB8GA1UdIwQYMBaA
+FDfrNwD3Fb1Te8yJznHxNP3iFqYCMB0GA1UdDgQWBBTILiW7aFuUNsKvTVTQDpkL9QZodzAOBgNV
+HQ8BAf8EBAMCBsAwggEgBgNVHSAEggEXMIIBEzCCAQ8GC2CGGAECAQEFBwMBMIH/MCoGCCsGAQUF
+BwIBFh5odHRwOi8vZGVwby5rYW11c20uZ292LnRyL2lsa2UwgdAGCCsGAQUFBwICMIHDHoHAAEIA
+dQAgAHMAZQByAHQAaQBmAGkAawBhACAAaQBsAGUAIABpAGwAZwBpAGwAaQAgAHMAZQByAHQAaQBm
+AGkAawBhACAAaQBsAGsAZQBsAGUAcgBpAG4AaQAgAG8AawB1AG0AYQBrACAAaQDnAGkAbgAgAGIA
+ZQBsAGkAcgB0AGkAbABlAG4AIAB3AGUAYgAgAHMAaQB0AGUAcwBpAG4AaQAgAHoAaQB5AGEAcgBl
+AHQAIABlAGQAaQBuAGkAegAuMAkGA1UdEwQCMAAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwgwPAYD
+VR0fBDUwMzAxoC+gLYYraHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9uZXMva29rc2hzLnY1LmNy
+bDBHBggrBgEFBQcBAQQ7MDkwNwYIKwYBBQUHMAKGK2h0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIv
+bmVzL2tva3Nocy52NS5jcnQwDQYJKoZIhvcNAQELBQADggEBAAVTxeoeABjvXUFVTMziyi9cKORw
+m8183zjs/TVZZeBhkKMxDzWZDq09y0G/qji8kutdlql0xaz199Ouu18TqZYyJX/to8UwDRBgiuRt
+yzNNPmpvUam4aCH1lIfbO6VheJqdwmsmwdr19x3OyxBBS5SUC0D/1e/gykayXndJXM3MAYBpKO47
+g2hwAJ5ZIgecbMx6m/OPAQwYd/l3KG/MAQNCmFJYj3DkFygexC485skikVvwd/eIBa9tftwZI2hO
+ZGuMD4cguWUZOInhjRjV5ariFpJpdkWhb1kGOi5Awl3h13PeQcMjbvKvXRohWP14rO0X1La/18WQ
+YLwEBgG/MpwxggNqMIIDZgIBATCB0jCBxjELMAkGA1UEBhMCVFIxGDAWBgNVBAcMD0dlYnplIC0g
+S29jYWVsaTFHMEUGA1UECgw+VMO8cmtpeWUgQmlsaW1zZWwgdmUgVGVrbm9sb2ppayBBcmHFn3TE
+sXJtYSBLdXJ1bXUgLSBUw5xCxLBUQUsxEDAOBgNVBAsMB0LEsExHRU0xQjBABgNVBAMMOUthbXUg
+U00gS8O2ayBTZXJ0aWZpa2EgSGl6bWV0IFNhxJ9sYXnEsWPEsXPEsSAtIFPDvHLDvG0gNQIHAOGD
+r3ABmjALBglghkgBZQMEAgGgggFqMBoGCSqGSIb3DQEJAzENBgsqhkiG9w0BCRABBDAvBgkqhkiG
+9w0BCQQxIgQguYxLDmfJco4vJAP7h7J34y1wq9G0WkW9H7GVmcqCVBQwggEZBgsqhkiG9w0BCRAC
+LzGCAQgwggEEMIIBADCB/QQgwHZThQ8EK6T+/2iOeG6kBQq++dtXowlmTs1s6N5A1OIwgdgwgcyk
+gckwgcYxCzAJBgNVBAYTAlRSMRgwFgYDVQQHDA9HZWJ6ZSAtIEtvY2FlbGkxRzBFBgNVBAoMPlTD
+vHJraXllIEJpbGltc2VsIHZlIFRla25vbG9qaWsgQXJhxZ90xLFybWEgS3VydW11IC0gVMOcQsSw
+VEFLMRAwDgYDVQQLDAdCxLBMR0VNMUIwQAYDVQQDDDlLYW11IFNNIEvDtmsgU2VydGlmaWthIEhp
+em1ldCBTYcSfbGF5xLFjxLFzxLEgLSBTw7xyw7xtIDUCBwDhg69wAZowDQYJKoZIhvcNAQELBQAE
+ggEAOqa9GFi5pCTjiQxTuiv1haKQslRzmsg+hiy6nuTUf2t1b1vlY4BCIzHuYpDrdVuqtG2qeFZL
+ZaMYfqNTCb6/SJf2k1b9Lw66DtXI5h9S67L7bmn8CmcXzdJv0SSaFIl4GvJuXU2YzOfkrFqwOW1v
+XyjrawstyM3R3ldYRSx6nodiH0SeNwITS4vhzcEqxadn7XuQNPDhXc0Ef0ByfAdbeYlz1/o/Jc/N
+brQKaIzr0T1yayrR9d09MN0nA0OULH4Kc0xvtfhpTPCDZbLgRIxHqAO1IkIuE0m+cxBgk2bPP+C+
+H+n1b/Tmcc2kH/llLn6kbqN5tskapmwZb1UKY3uGaw==</xades:EncapsulatedTimeStamp>
+</xades141:ArchiveTimeStamp></xades:UnsignedSignatureProperties>
+</xades:UnsignedProperties>
+</xades:QualifyingProperties>
+</ds:Object>
+</ds:Signature></baslik>
+  <fatura>
+    <faturaNo>PEN2018000000154</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>2A9B9132-2BF7-401C-A01E-DECF3270A5B4.xml</dosyaAdi>
+    <ozetDeger>19c21163009c581d0a7cb7004481551f10182de319816d95e517217bbdad0005</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>14:30:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000153</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>8490DC21-D560-4C4A-9845-81E0328C42EE.xml</dosyaAdi>
+    <ozetDeger>bfb5e6fe46f54f122572329d6f5f98767f2acfee2ae22a2d9b345e69eade5577</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>14:19:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000155</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>DAEF785F-1B95-4F01-95BE-17642C58F9B2.xml</dosyaAdi>
+    <ozetDeger>8d004ee50b053176df42822076f3d5a1e6bf8c9e11974b8acfb4b1de5cd84544</ozetDeger>
+    <duzenlenmeTarihi>2018-10-13</duzenlenmeTarihi>
+    <duzenlenmeZamani>23:13:00</duzenlenmeZamani>
+    <toplamTutar>10.00</toplamTutar>
+    <odenecekTutar>11.80</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.80</vergilerToplami>
+      <vergi>
+        <matrah>10.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.80</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>41044546598</tckn>
+        <adiSoyadi>Ferit Erel</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000156</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>168AC9B1-0E46-428B-8393-601B4C6B1D87.xml</dosyaAdi>
+    <ozetDeger>98e36e58df9b118aadb13dfae21128b5dcddf0fad18aa83881bbdb20ff2b90c7</ozetDeger>
+    <duzenlenmeTarihi>2018-10-14</duzenlenmeTarihi>
+    <duzenlenmeZamani>14:43:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YEK2018112233111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>187bd7ec-6cfa-4d23-bb6a-a7b863d6bdf7.xml</dosyaAdi>
+    <ozetDeger>6857ca7dc3e3f8a8e41f47caeebb84f01cdc8f1dfaa17ae0015dc774777bde0f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000157</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>D1A20A1A-A0B1-439D-BC65-7D585F5F0A64.xml</dosyaAdi>
+    <ozetDeger>5110335bebc0fe6f675b1630ebaf2c1273f8a14bb2374158cb55071a970ccda5</ozetDeger>
+    <duzenlenmeTarihi>2018-10-15</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:38:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000158</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>8D59AF74-EF53-4242-B523-E9A7D37D7C70.xml</dosyaAdi>
+    <ozetDeger>c8114338166023d3c1d424721c8e646a6f636ebd193e736155552185e70a2b24</ozetDeger>
+    <duzenlenmeTarihi>2018-10-15</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:50:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>74185296312</tckn>
+        <adiSoyadi>oktay test</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000159</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>A2D2C485-58DF-4462-8E56-9921F059B5C0.xml</dosyaAdi>
+    <ozetDeger>43e11790cf97002b5ff6e802119057500550e999bec028a0b2ca5d814d5aa81f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-15</duzenlenmeTarihi>
+    <duzenlenmeZamani>12:07:00</duzenlenmeZamani>
+    <toplamTutar>10.00</toplamTutar>
+    <odenecekTutar>11.80</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.80</vergilerToplami>
+      <vergi>
+        <matrah>10.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.80</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000160</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>F1FF5D03-4B03-4B64-858E-E092A5C98EEB.xml</dosyaAdi>
+    <ozetDeger>4f42decf804155032f13b304425a8c4d31d791171ad178412071bd26a5f2dc47</ozetDeger>
+    <duzenlenmeTarihi>2018-10-16</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:46:00</duzenlenmeZamani>
+    <toplamTutar>11.00</toplamTutar>
+    <odenecekTutar>12.98</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.98</vergilerToplami>
+      <vergi>
+        <matrah>11.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.98</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>4104454659</vkn>
+        <unvan>FERİT EREL A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>GOK2018000000230</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>B1E80BD3-AAE8-48EB-88A7-C100E5C1CCB6.xml</dosyaAdi>
+    <ozetDeger>b99afe2521b932c6ebdfd1dcb363fbf5d0011714ac69f60e926dd2f78725b372</ozetDeger>
+    <duzenlenmeTarihi>2018-10-15</duzenlenmeTarihi>
+    <duzenlenmeZamani>16:03:42</duzenlenmeZamani>
+    <toplamTutar>70.00</toplamTutar>
+    <odenecekTutar>82.60</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>12.60</vergilerToplami>
+      <vergi>
+        <matrah>12.60</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>12.60</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>10000000146</tckn>
+        <adiSoyadi>ŞAHIS EARŞİV FATURA</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>GOK2018000000233</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>C4CCB1AF-92A4-4A3F-9892-293F1C7B685D.xml</dosyaAdi>
+    <ozetDeger>92ea45713e28bcc100c6b41abd43d441e20b104090d349ffaf12f6f417c52deb</ozetDeger>
+    <duzenlenmeTarihi>2018-10-16</duzenlenmeTarihi>
+    <duzenlenmeZamani>13:44:20</duzenlenmeZamani>
+    <toplamTutar>300.00</toplamTutar>
+    <odenecekTutar>354.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>54.00</vergilerToplami>
+      <vergi>
+        <matrah>54.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>54.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>10000000146</tckn>
+        <adiSoyadi>ŞAHIS EARŞİV FATURA</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SPB2018000000211</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>60C05997-64DF-47DF-8E31-6F1F2E853B40.xml</dosyaAdi>
+    <ozetDeger>98b747e53f8fea295f9a9341c76a5245f6a41b1cd79d7f3b4907c13757d76297</ozetDeger>
+    <duzenlenmeTarihi>2018-08-17</duzenlenmeTarihi>
+    <duzenlenmeZamani>13:35:00</duzenlenmeZamani>
+    <toplamTutar>600.00</toplamTutar>
+    <odenecekTutar>708.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>108.00</vergilerToplami>
+      <vergi>
+        <matrah>600.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>108.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>5860371988</vkn>
+        <unvan>KÖROĞLU OTELCİLİK TUR.İNŞ.LTD.ŞTİ.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <faturaIptal>
+    <faturaNo>PEN2018000000147</faturaNo>
+    <iptalTarihi>2018-10-08+03:00</iptalTarihi>
+    <toplamTutar>1.18</toplamTutar>
+  </faturaIptal>
+  <fatura>
+    <faturaNo>PEN2018000000148</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>CC8DFA6A-84CE-4DED-A88C-C948DBFD0C4F.xml</dosyaAdi>
+    <ozetDeger>0f68f1ca13cb1f5dc69ea6168f23b11f0b0b1753053f29888356df07f67d60ba</ozetDeger>
+    <duzenlenmeTarihi>2018-10-08</duzenlenmeTarihi>
+    <duzenlenmeZamani>12:14:00</duzenlenmeZamani>
+    <toplamTutar>10.00</toplamTutar>
+    <odenecekTutar>11.80</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.80</vergilerToplami>
+      <vergi>
+        <matrah>10.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.80</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000150</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>E762292F-9190-458A-A23A-31F46474B685.xml</dosyaAdi>
+    <ozetDeger>6692a8750cd3617d0472cf1b13285cc991767bb1fe5fc1b461babe3e20d6a724</ozetDeger>
+    <duzenlenmeTarihi>2018-10-09</duzenlenmeTarihi>
+    <duzenlenmeZamani>17:55:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000149</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>73897A60-B5A3-4D1E-88D8-7601AE609825.xml</dosyaAdi>
+    <ozetDeger>b65303d28b91b6c3229150b463738c003467963697e3461b8c65aa681419bceb</ozetDeger>
+    <duzenlenmeTarihi>2018-10-09</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:30:00</duzenlenmeZamani>
+    <toplamTutar>58.00</toplamTutar>
+    <odenecekTutar>68.44</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>10.44</vergilerToplami>
+      <vergi>
+        <matrah>58.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>10.44</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>35671557706</tckn>
+        <adiSoyadi>GÜNAY AKIN</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000151</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>FD26D079-E685-4D70-9379-DFAA78905D84.xml</dosyaAdi>
+    <ozetDeger>d39c211acd709937ac2b8bc606bd281057e0d1467b9052299876bd67cc68eb9f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-11</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:31:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000152</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>4444E372-4035-48E5-9898-F895B95D2D6A.xml</dosyaAdi>
+    <ozetDeger>75641f8f7c94400afbe6fb2cc5c234b16c7fe7c32bf3e92a7d2eecb9690012ab</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:06:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SOK2018001001111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>63907225-6d65-4f63-9f98-c8873c777aed.xml</dosyaAdi>
+    <ozetDeger>ab2e4e57a76ce9940cf7edee14dcfdfc02fd128c66080dce361bedef496d4c97</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SOK2018001101111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>520db043-d3aa-4ee2-84a6-d5e2a681aab1.xml</dosyaAdi>
+    <ozetDeger>9dcfb86f1505056259dab427452d26ec5a7d68360e4eddee65975018196fcdf6</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SOK2018011101111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>9c2b4671-2468-49de-850a-0088fa3fc7d6.xml</dosyaAdi>
+    <ozetDeger>d2c6003cfa6b87a9deb1439e018f0524a8856ad69c447fc07336dd8cb6193ee8</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SOK2018012201111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>598a9e60-a85b-487d-a885-0f64d25d8ae6.xml</dosyaAdi>
+    <ozetDeger>0131f9611794a5b60ba371c19e534c16270938b06d30530ab09c0697861ede0f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SOK2018112231111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>359d883a-5b68-40ba-821d-143679271ddc.xml</dosyaAdi>
+    <ozetDeger>89b425c1ffa7fc7b3f9bbd8a768e6ad72250ca726d3b2c8a5948f9a6b6ac77d0</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>SOK2018012231111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>03b14f62-eaa8-409f-ae5d-6d09cd67cc8d.xml</dosyaAdi>
+    <ozetDeger>d8009c5f2054a52178cff68481a81c6c90582794373cc04280fcbcaf8c720b2b</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YEK2018112231111</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>f9a72522-a17f-4408-b524-effaeeb5f5b5.xml</dosyaAdi>
+    <ozetDeger>01c5efb099787501e0c01a1d35a42582d0acc0db8671a4d473fa6468eb321e37</ozetDeger>
+    <duzenlenmeTarihi>2018-10-12</duzenlenmeTarihi>
+    <duzenlenmeZamani>00:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>100.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YEK2018000000002</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>45ff9613-3304-4149-8cd0-a9f00550795e.xml</dosyaAdi>
+    <ozetDeger>e33bb128a1d58b31321e1753a851d5d37ed98a166f480a9c05c08b2945bce3de</ozetDeger>
+    <duzenlenmeTarihi>2018-10-28</duzenlenmeTarihi>
+    <duzenlenmeZamani>16:27:12</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>5.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YEK2018000000263</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>91a8fa57-3789-4e5e-b965-e3027575248c.xml</dosyaAdi>
+    <ozetDeger>2268eed28d9f5229ddc25cd5918c8d12b5de32d8beca2be7583c99d9802efd8e</ozetDeger>
+    <duzenlenmeTarihi>2018-10-28</duzenlenmeTarihi>
+    <duzenlenmeZamani>16:29:36</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>5.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Büşra Kaya</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000191</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>7A90FB2A-EFA9-4650-A495-D21BA7A36619.xml</dosyaAdi>
+    <ozetDeger>2c8288aea9de103dbdc9813d061b7822c531658aa3c04fc01081632264a9fd8d</ozetDeger>
+    <duzenlenmeTarihi>2018-10-30</duzenlenmeTarihi>
+    <duzenlenmeZamani>11:17:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000192</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>EE6A07EA-2E3F-4665-A647-7DCD057C7866.xml</dosyaAdi>
+    <ozetDeger>413a2187ffe8d269937d1ceaddfbdef7cfe402231e2cc16dff9b6c5980a547da</ozetDeger>
+    <duzenlenmeTarihi>2018-10-30</duzenlenmeTarihi>
+    <duzenlenmeZamani>11:59:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000193</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>7C480F39-9F88-4366-9250-0D4F65B50CDA.xml</dosyaAdi>
+    <ozetDeger>fd0ebe7ed05b4a2a4d343fe1e29acf56ca7ea1878eeb05b7fd544cd90c09fa7c</ozetDeger>
+    <duzenlenmeTarihi>2018-10-30</duzenlenmeTarihi>
+    <duzenlenmeZamani>12:00:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000194</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>1D6E2966-7CAD-4FE4-8F55-A7E03E19E67E.xml</dosyaAdi>
+    <ozetDeger>e3e3e003cc0285c913de5f4b1c8b28b20c126d7348af8694f52ab9eb7da0ff58</ozetDeger>
+    <duzenlenmeTarihi>2018-10-30</duzenlenmeTarihi>
+    <duzenlenmeZamani>13:40:00</duzenlenmeZamani>
+    <toplamTutar>58.00</toplamTutar>
+    <odenecekTutar>68.44</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>10.44</vergilerToplami>
+      <vergi>
+        <matrah>58.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>10.44</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>GOK2018000000255</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>1281D476-15DB-4771-B2A8-32AD2F274CA4.xml</dosyaAdi>
+    <ozetDeger>4c4b1064d21ed3e92e1d33b196e90f66a9990e5f20ce867fb08913d00322087a</ozetDeger>
+    <duzenlenmeTarihi>2018-10-17</duzenlenmeTarihi>
+    <duzenlenmeZamani>14:37:31</duzenlenmeZamani>
+    <toplamTutar>2727.25</toplamTutar>
+    <odenecekTutar>2727.25</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>0.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.00</vergiTutari>
+        <vergiOrani>0</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>10000000146</tckn>
+        <adiSoyadi>ŞAHIS EARŞİV FATURA</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000162</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>80F4FAC7-C3D5-4091-9C86-156A3384B09E.xml</dosyaAdi>
+    <ozetDeger>da2584cc6e21652a6b66171ea5e0492fca5cbe04092258fd119b6c256e067c11</ozetDeger>
+    <duzenlenmeTarihi>2018-10-18</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:25:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1111111111</vkn>
+        <unvan>Test</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YSB2018000000002</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>efcada9d-c816-498b-b1a6-5cba2b47e4b4.xml</dosyaAdi>
+    <ozetDeger>da2059ae52f58d6039c60ec05edc05a8f015a7b1f9691cd5576eb059b70c0b56</ozetDeger>
+    <duzenlenmeTarihi>2018-10-18</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:44:54</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Yunus Emre Karaal</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000163</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>FE9ED973-F873-43D8-A8E5-82E8A35AA053.xml</dosyaAdi>
+    <ozetDeger>d5a131844048b04e0b7362a5b35528b38ae5868c1fa9536baaa37f7db26fcfef</ozetDeger>
+    <duzenlenmeTarihi>2018-10-19</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:28:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>11111111111</tckn>
+        <adiSoyadi>emre emre</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000164</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>BE2CF49B-0785-4A39-9C96-A2459E6655FC.xml</dosyaAdi>
+    <ozetDeger>95975880b24a93f7f211fd132c2e8534ada9251386f9af9698acf5859a543ad7</ozetDeger>
+    <duzenlenmeTarihi>2018-10-22</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:40:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>35671557706</tckn>
+        <adiSoyadi>GÜNAY AKIN</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000165</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>E270CFF6-5401-4FA2-A586-4040BF19DD9B.xml</dosyaAdi>
+    <ozetDeger>414b39f3e366af456ee4c730e92317c66f9bd67bba54092c2d965fc5f1cc5d5d</ozetDeger>
+    <duzenlenmeTarihi>2018-10-22</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:04:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567819</vkn>
+        <unvan>FERİT EREL2 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YSB2018000000003</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>5c4f4c05-e793-4c93-b594-863bc53efecf.xml</dosyaAdi>
+    <ozetDeger>d7e641a4757b71f1c6270ff4513c08d6271d8cbbbfd70085477356aadae5981b</ozetDeger>
+    <duzenlenmeTarihi>2018-10-18</duzenlenmeTarihi>
+    <duzenlenmeZamani>18:04:15</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>LRD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Yunus Emre Karaal</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YSB2018000000006</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>bd425a2c-6067-41ce-b18b-cfc7a2a3ed75.xml</dosyaAdi>
+    <ozetDeger>7e5b65a8cfff4a9027af529ad49fe537d29a01c715d3eff09ba3cb4eb014757a</ozetDeger>
+    <duzenlenmeTarihi>2018-10-22</duzenlenmeTarihi>
+    <duzenlenmeZamani>17:31:52</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>42115924468</tckn>
+        <adiSoyadi>Yunus Emre Karaal</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000166</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>D3E2443E-DDCB-4E87-815A-44329FD7ED45.xml</dosyaAdi>
+    <ozetDeger>d86d04aacaa83ea678834e059ade5efcdb26495d7935bc2cbe90b215a23d533f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-23</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:13:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <faturaIptal>
+    <faturaNo>ABC2018000000002</faturaNo>
+    <iptalTarihi>2018-10-24+03:00</iptalTarihi>
+    <toplamTutar>23.60</toplamTutar>
+  </faturaIptal>
+  <fatura>
+    <faturaNo>PEN2018000000167</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>D964F3BA-3060-4CBF-B822-467910FF09F4.xml</dosyaAdi>
+    <ozetDeger>53ec6f926f1e6ff726ba172d1cceec8da89ec0fc00ae80b9844d31adf2b09f58</ozetDeger>
+    <duzenlenmeTarihi>2018-10-23</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:30:00</duzenlenmeZamani>
+    <toplamTutar>10.00</toplamTutar>
+    <odenecekTutar>11.80</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.80</vergilerToplami>
+      <vergi>
+        <matrah>10.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.80</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1111111111</vkn>
+        <unvan>YANIT YAYINCILIK EĞİTİM DAĞ. İNŞ. SAN.TİC. LTD.ŞTİ.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000168</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>F7ED6668-5334-4BB2-9CD7-D5E7D3D108C7.xml</dosyaAdi>
+    <ozetDeger>b4e7d2bc99e8ef971db4bc4bae2b16c99c973576e2bdfbebfd4f898ccf08d2f7</ozetDeger>
+    <duzenlenmeTarihi>2018-10-24</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:47:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000169</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>39A0AFB6-D3BA-4FF2-88C5-229D31252E76.xml</dosyaAdi>
+    <ozetDeger>f736a1c6edcb0c4491fc3980232e503be055dd8f3be0c01b571609c4d5350776</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:38:00</duzenlenmeZamani>
+    <toplamTutar>11.00</toplamTutar>
+    <odenecekTutar>12.98</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.98</vergilerToplami>
+      <vergi>
+        <matrah>11.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.98</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>YSB2018000000009</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>d685c08f-efcd-4ad0-a6bc-cd0695cf6b3e.xml</dosyaAdi>
+    <ozetDeger>8faf0dd714363e267192a6f3714ac4b8535ee4c4bd40aa3c4fb1c220c7124c5e</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>10:27:43</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>6080475320</vkn>
+        <unvan>YUNUS EMRE KARAAL</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000171</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>0EB395FB-6DAA-4E5A-AB47-991AA7F78C26.xml</dosyaAdi>
+    <ozetDeger>e7990c2dec4164dd2db28456bf88b1ded0162f3a6466f2bc54d89980c172c535</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:06:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000170</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>A3770C2C-930B-40D5-94A0-1D81844B34E6.xml</dosyaAdi>
+    <ozetDeger>94f850645f73f4544ec05ef211a9cd0cfc330c45a99fa3653c73924abff51884</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:03:00</duzenlenmeZamani>
+    <toplamTutar>400.00</toplamTutar>
+    <odenecekTutar>472.00</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>72.00</vergilerToplami>
+      <vergi>
+        <matrah>400.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>72.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000172</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>A584B217-2D28-47A7-9E47-2543114FD3C6.xml</dosyaAdi>
+    <ozetDeger>50cc57d312017006974adcd458fb923c545faa294473dafceb4a5b064a5e031b</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:10:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>EUR</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000173</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>A45792E3-74A7-4E40-9DEF-D4C5D85F0B6B.xml</dosyaAdi>
+    <ozetDeger>8789629c86aa42122659b4a897c1331117c3a95cca66cc241c4e3c859d5b940c</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:12:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000175</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>3400CD43-80EE-475E-8BEA-C2CE0C3B0E45.xml</dosyaAdi>
+    <ozetDeger>111d1fd3033ffdb0f398ae7592ce9dfe8ae2ce6e888879cd879058c5a1527844</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:31:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000174</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>121F5443-4B1D-4160-ADFE-E8D97711225A.xml</dosyaAdi>
+    <ozetDeger>d714938ee6a739d55cca4d6b9cad96d4460191cf6a5015207585f63d101a361b</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:31:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>EUR</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000176</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>110BA3FB-A9CD-4D02-9D4A-D3116291497F.xml</dosyaAdi>
+    <ozetDeger>8a0e55c5c19c515c9165adbaf3f8e609216721f552291b2b168355ba503a7433</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:32:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000177</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>4CA8094A-5DA4-43CB-95D0-A1550F10EF17.xml</dosyaAdi>
+    <ozetDeger>085f815b6d51e4473dd0d50eaffa5bc09dc902dfe27c104e21a72488d882c41a</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:35:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000178</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>2C75B515-09F9-4DE1-B6CF-FCFFD8F3B717.xml</dosyaAdi>
+    <ozetDeger>65c5cb1e9b5d3d950bcbca9d7672d56c99af8d9984e3ad8ffd6d95176e272ffa</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:36:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000180</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>671C89B3-88DE-499C-AF5B-BC9771346928.xml</dosyaAdi>
+    <ozetDeger>16839f623f5cf6890679d74a0851c56eae611d118bca13859d029ea6d5c6ba99</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:38:00</duzenlenmeZamani>
+    <toplamTutar>200.00</toplamTutar>
+    <odenecekTutar>236.00</odenecekTutar>
+    <paraBirimi>EUR</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>36.00</vergilerToplami>
+      <vergi>
+        <matrah>200.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>36.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000179</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>1B9EB8F0-7124-49A4-8893-989C56A0FB35.xml</dosyaAdi>
+    <ozetDeger>fc91d2f28339e1ab494fbce22b5d09c1ca6c5e675a3aaed7f57214409c901cb8</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:37:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000181</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>2223871D-EBC9-4705-AB10-2BD5A93E9403.xml</dosyaAdi>
+    <ozetDeger>a44e3901ec0bdae9a4a4eb209ee505f1a1c0710c518371b6aec15c54daeb31f1</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:39:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>GBP</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000182</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>0714B75D-9FEB-4E37-88E9-A6FDD5A088FE.xml</dosyaAdi>
+    <ozetDeger>86f85ea13e14db66b0066d960459525a63a59420179865820b11c15fa3f70a8d</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:40:00</duzenlenmeZamani>
+    <toplamTutar>20.00</toplamTutar>
+    <odenecekTutar>23.60</odenecekTutar>
+    <paraBirimi>EUR</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>3.60</vergilerToplami>
+      <vergi>
+        <matrah>20.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>3.60</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000183</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>DD047D0E-87A3-4654-9EF6-C78306C38293.xml</dosyaAdi>
+    <ozetDeger>256e26603443cb7c5e521caf83305509f8907af9d573dd66c46702d3c54ef793</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:42:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>AZN</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000184</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>81AE352E-8AA3-4CFB-9BB0-3E9988C9BBFC.xml</dosyaAdi>
+    <ozetDeger>2900652ce1006f6c349d2ed243d8b7ad452c34d024b1e295be12b176967c8e0d</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:42:00</duzenlenmeZamani>
+    <toplamTutar>200.00</toplamTutar>
+    <odenecekTutar>236.00</odenecekTutar>
+    <paraBirimi>CAD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>36.00</vergilerToplami>
+      <vergi>
+        <matrah>200.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>36.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000185</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>3AAD6080-79B9-46CE-A0E6-5E04824A129A.xml</dosyaAdi>
+    <ozetDeger>50a7a75d2bfc5e64f5aef19a852ad520b41d36c0b86f25dfbf4b7af05be561aa</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:43:00</duzenlenmeZamani>
+    <toplamTutar>200.00</toplamTutar>
+    <odenecekTutar>236.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>36.00</vergilerToplami>
+      <vergi>
+        <matrah>200.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>36.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000186</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>8747A78D-3F63-418D-B6CF-C1FFD04F2AA0.xml</dosyaAdi>
+    <ozetDeger>7d7fef4c0ebd56c8117fef48b356d7680137546050de6cdae937980f8c31e4c3</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:44:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000187</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>DE10A508-0218-4475-BB13-78F1EE7039F4.xml</dosyaAdi>
+    <ozetDeger>4af2a97e323801c0d9667c5d6839fbf4ad8ea133065e0bb2a8d296ae65fad46f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:45:00</duzenlenmeZamani>
+    <toplamTutar>10.00</toplamTutar>
+    <odenecekTutar>11.80</odenecekTutar>
+    <paraBirimi>EUR</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.80</vergilerToplami>
+      <vergi>
+        <matrah>10.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.80</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000189</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>7FF49923-2E1C-4CDB-B7D3-EF721EE7EB44.xml</dosyaAdi>
+    <ozetDeger>2142f174a096aa942e4009fab5504bab59c811a830e858d2de589f7a3a1b1403</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:49:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000188</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>0648D7C1-D15D-42D2-A0F8-1916D5DE8CBC.xml</dosyaAdi>
+    <ozetDeger>f83b082eecef6ecd6cc41d2a54f17bfceb9e7f84b14253989bdb34e03cccfd51</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:46:00</duzenlenmeZamani>
+    <toplamTutar>10.00</toplamTutar>
+    <odenecekTutar>11.80</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>1.80</vergilerToplami>
+      <vergi>
+        <matrah>10.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>1.80</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000190</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>1C18B78C-A537-45BD-91D4-2D8B3FCEDA8E.xml</dosyaAdi>
+    <ozetDeger>83ad1ba136889f79e039d3a9f8639b8b45ea5680a9b18965b0f014521c879b3b</ozetDeger>
+    <duzenlenmeTarihi>2018-10-26</duzenlenmeTarihi>
+    <duzenlenmeZamani>15:52:00</duzenlenmeZamani>
+    <toplamTutar>100.00</toplamTutar>
+    <odenecekTutar>118.00</odenecekTutar>
+    <paraBirimi>USD</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>18.00</vergilerToplami>
+      <vergi>
+        <matrah>100.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>18.00</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567891</vkn>
+        <unvan>FERİT EREL3 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>GOK2018000000243</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>847AC806-4502-4EAC-A3F0-BA9B5C6FFE3A.xml</dosyaAdi>
+    <ozetDeger>89168078c69ced8a458f3d1d9433864991eef4b750fb465011014a93d2671f36</ozetDeger>
+    <duzenlenmeTarihi>2018-10-16</duzenlenmeTarihi>
+    <duzenlenmeZamani>18:21:51</duzenlenmeZamani>
+    <toplamTutar>545.45</toplamTutar>
+    <odenecekTutar>545.45</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>0.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.00</vergiTutari>
+        <vergiOrani>0</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>10000000146</tckn>
+        <adiSoyadi>ŞAHIS EARŞİV FATURA</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>GOK2018000000244</faturaNo>
+    <gonderimSekli>ELEKTRONIK</gonderimSekli>
+    <dosyaAdi>B969DE2E-67F2-445D-B735-619015C37D06.xml</dosyaAdi>
+    <ozetDeger>165308934ea008462eb3455273a50ed8fd59c3cc19a24c27725021a63a886003</ozetDeger>
+    <duzenlenmeTarihi>2018-10-17</duzenlenmeTarihi>
+    <duzenlenmeZamani>08:56:35</duzenlenmeZamani>
+    <toplamTutar>545.45</toplamTutar>
+    <odenecekTutar>545.45</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.00</vergilerToplami>
+      <vergi>
+        <matrah>0.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.00</vergiTutari>
+        <vergiOrani>0</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <gercekKisi>
+        <tckn>10000000146</tckn>
+        <adiSoyadi>ŞAHIS EARŞİV FATURA</adiSoyadi>
+      </gercekKisi>
+    </aliciBilgileri>
+  </fatura>
+  <fatura>
+    <faturaNo>PEN2018000000161</faturaNo>
+    <gonderimSekli>KAGIT</gonderimSekli>
+    <dosyaAdi>E13B46CC-DCB0-4989-8F03-A2D4CA2018D7.xml</dosyaAdi>
+    <ozetDeger>e5898726e54836bb2534686d3016b503794649dc25c374577e021e622b4e059f</ozetDeger>
+    <duzenlenmeTarihi>2018-10-17</duzenlenmeTarihi>
+    <duzenlenmeZamani>09:33:00</duzenlenmeZamani>
+    <toplamTutar>1.00</toplamTutar>
+    <odenecekTutar>1.18</odenecekTutar>
+    <paraBirimi>TRY</paraBirimi>
+    <vergiBilgisi>
+      <vergilerToplami>0.18</vergilerToplami>
+      <vergi>
+        <matrah>1.00</matrah>
+        <vergiKodu>0015</vergiKodu>
+        <vergiTutari>0.18</vergiTutari>
+        <vergiOrani>18.00</vergiOrani>
+      </vergi>
+    </vergiBilgisi>
+    <aliciBilgileri>
+      <tuzelKisi>
+        <vkn>1234567819</vkn>
+        <unvan>FERİT EREL2 A.Ş.</unvan>
+      </tuzelKisi>
+    </aliciBilgileri>
+  </fatura>
+</eArsivRaporu>

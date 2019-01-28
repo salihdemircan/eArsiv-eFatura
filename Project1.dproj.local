@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.232,=C:\Users\Win10\Desktop\e fatura Test  06122018\Test E fatura 29-12-2018-1\Test E fatura 29-12-2018\Test 297122018\uHelperClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,=C:\Users\Win10\Downloads\Compressed\Test 03122018\Test 03122018\EArchiveService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,=C:\Users\Win10\Desktop\e fatura Test  06122018\Test E fatura 29-12-2018-1\Test E fatura 29-12-2018\Test 297122018\uNullabletypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,=F:\Temp\Salih\e fatura Test  03122018\Test 03122018\uIniUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\deneme\Unit1.pas=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\EFaturaService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\deneme\Project1.dproj=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,=C:\Users\Win10\Desktop\e fatura Test  06122018\Test E fatura 29-12-2018-1\Test E fatura 29-12-2018\Test 297122018\UBLContract.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\deneme\Unit1.dfm=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\deneme\EFaturaService.pas=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\EFaturaService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,=F:\Temp\Salih\e fatura Test  03122018\Test 03122018\uUtility.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\Win10\Downloads\Compressed\Test 03122018\Test 03122018\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
